@@ -1,5 +1,6 @@
-Iae, Me chamo Heitor!!!
-
+<div align="center">
+   <p>Iae, Me chamo Heitor!!!</p>
+</div>
 <div align="center">
   <img src="Jill.png" alt="Jill">
 </div>
