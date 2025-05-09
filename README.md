@@ -12,20 +12,18 @@
 ### 🛠️ Tecnologias e Ferramentas que uso
 
 - Arduino, ESP32, sensores e atuadores
-- Python, C/C++, Java (se precisar... rs)
+- Python, C/C++/C#, Java, Tecnologias Web (HTML, CSS, JavaScript, Django)
 - Git & GitHub
-- Ventoy, bootables, sistemas Linux
+- Ventoy, Bootables, Sistemas Linux
 - Eletrônica analógica e digital
 
 ---
 
 ### 🚀 Alguns projetos legais
 
-- 🦾 Mão robótica extravagante imitando meus movimentos  
+- 🎮 Recriando Doom em Java
+- 🦾 Mão robótica imitando meus movimentos  
 - 🔌 Bancada de eletrônica com proteção contra altas voltagens  
-- 📀 Aula com animações 3D sobre Ventoy e criação de pendrives bootáveis  
-- 🎮 Experimentando com desenvolvimento de jogos no Roblox
-
 ---
 
 ### 📫 Como me encontrar
