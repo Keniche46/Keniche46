@@ -1,4 +1,4 @@
-### 🌍 Escolha o idioma | Choose your language
+### 🌍 Escolha o idioma | Choose your language | Sprache wählen
 
 <details>
 <summary>🇧🇷 Português</summary>
@@ -72,6 +72,44 @@ _"Não é só sobre código, é sobre transformar o caos em algo que funcione."_
 - Email: keniche60@gmail.com  
 
 _"It’s not just about code, it’s about turning chaos into something that works."_  
+— Heitor Martins  
+
+</details>
+
+<details>
+<summary>🇩🇪 Deutsch</summary>
+
+<br>
+
+### Hallo! Ich bin Heitor 👋
+
+💻 Student für Programmierung, Elektronik und Technikliebhaber  
+🎓 IFCE - Maranguape | LEIAH Gruppe  
+⚙️ Ich bastle gern an Hardware, Schaltungen, Automatisierung und auch ein bisschen Chemie  
+🎮 Zurzeit platinisiere ich Spiele, als ob ich versuche, das Chaos zu ordnen — jede Trophäe ist eine kleine Erinnerung, dass irgendwo alles Sinn ergibt  
+🧠 Ein Kopf voller Ideen, Notizbücher mit tiefen Gedanken und verrückten Projekten  
+🐈 Ich träume davon, eine Balinesenkatze zu haben, die mich bei meinen einsamen Code-Abenteuern begleitet  
+
+#### 🛠️ Technologien & Tools, die ich benutze
+
+- Arduino, ESP32, Sensoren und Aktoren  
+- Python, C/C++/C#, Java, Webtechnologien (HTML, CSS, JavaScript, Django)  
+- Git & GitHub  
+- Ventoy, Bootfähige Systeme, Linux  
+- Analoge und digitale Elektronik  
+
+#### 🚀 Coole Projekte
+
+- 🎮 Doom in Java neu erschaffen  
+- 🦾 Roboterhand, die meine Bewegungen nachahmt  
+- 🔌 Elektronik-Arbeitsbank mit Hochspannungsschutz  
+
+#### 📫 Kontakt
+
+- Instagram: [@theycallmekeniche](https://instagram.com/teuuser)  
+- E-Mail: keniche60@gmail.com  
+
+_"Es geht nicht nur um Code, sondern darum, Chaos in etwas Funktionierendes zu verwandeln."_  
 — Heitor Martins  
 
 </details>
