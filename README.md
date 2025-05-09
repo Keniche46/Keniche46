@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/564x/56/ac/e4/56ace41dfbc80361f1f7246c4b461727.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -59,8 +55,14 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="150" src="https://i.pinimg.com/564x/56/ac/e4/56ace41dfbc80361f1f7246c4b461727.jpg"  />
 
-<img src="https://raw.githubusercontent.com/Keniche46/Keniche46/output/snake.svg" alt="Snake animation" />
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keniche46/Keniche46/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keniche46/Keniche46/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Keniche46/Keniche46/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
