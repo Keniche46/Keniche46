@@ -10,7 +10,7 @@
 💻 Estudante de Programação, Eletrônica e apaixonado por tecnologia  
 🎓 IFCE - Maranguape | Grupo LEIAH  
 ⚙️ Curto mexer com hardware, circuitos, automação e umas paradas de Química também  
-🛠️ Casado com uma engenheira mecatrônica que entende até o meu código-fonte
+🛠️ Casado com uma engenheira mecatrônica que entende até o meu código-fonte 
 🎮 Ultimamente tô platinando jogos como quem tenta organizar o caos — cada troféu é um lembrete de que, pelo menos ali, as coisas fazem sentido  
 🧠 Tenho uma cabeça cheia de ideias, cadernos com textos profundos e projetos meio malucos  
 🐈 Sonho em ter um gato balinês pra fazer companhia nos rolês solitários de código  
