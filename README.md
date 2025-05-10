@@ -49,7 +49,6 @@ _"Não é só sobre código, é sobre transformar o caos em algo que funcione."_
 💻 Student of Programming, Electronics and tech enthusiast  
 🎓 IFCE - Maranguape | LEIAH Group  
 ⚙️ I love working with hardware, circuits, automation and a bit of Chemistry too  
-🛠️ Married to a mechatronics engineer who even understands my source code
 🎮 Lately, I’ve been platinum-ing games like I’m trying to organize chaos — each trophy a small reminder that somewhere, things make sense  
 🧠 A head full of ideas, notebooks with deep thoughts and chaotic projects  
 🐈 Dreaming of getting a Balinese cat to keep me company on my lonely coding adventures  
