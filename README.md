@@ -88,7 +88,6 @@ _"It’s not just about code, it’s about turning chaos into something that wor
 💻 Student für Programmierung, Elektronik und Technikliebhaber  
 🎓 IFCE - Maranguape | LEIAH Gruppe  
 ⚙️ Ich bastle gern an Hardware, Schaltungen, Automatisierung und auch ein bisschen Chemie  
-🛠️ Verheiratet mit einer Mechatronikingenieurin, die sogar meinen Quellcode versteht
 🎮 Zurzeit platinisiere ich Spiele, als ob ich versuche, das Chaos zu ordnen — jede Trophäe ist eine kleine Erinnerung, dass irgendwo alles Sinn ergibt  
 🧠 Ein Kopf voller Ideen, Notizbücher mit tiefen Gedanken und verrückten Projekten  
 🐈 Ich träume davon, eine Balinesenkatze zu haben, die mich bei meinen einsamen Code-Abenteuern begleitet  
