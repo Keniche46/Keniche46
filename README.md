@@ -30,8 +30,9 @@
 
 #### 📫 Como me encontrar
 
-- Instagram: [@theycallmekeniche](https://instagram.com/teuuser)  
-- Email: keniche60@gmail.com  
+- Instagram: [@theycallmekeniche](https://www.instagram.com/theycallmekeniche/)  
+- Email: keniche60@gmail.com
+- Steam: [Keniche](https://steamcommunity.com/id/Kenche085/)
 
 _"Não é só sobre código, é sobre transformar o caos em algo que funcione."_  
 — Heitor Martins  
@@ -68,8 +69,9 @@ _"Não é só sobre código, é sobre transformar o caos em algo que funcione."_
 
 #### 📫 How to reach me
 
-- Instagram: [@theycallmekeniche](https://instagram.com/teuuser)  
-- Email: keniche60@gmail.com  
+- Instagram: [@theycallmekeniche](https://www.instagram.com/theycallmekeniche/)  
+- Email: keniche60@gmail.com
+- Steam: [Keniche](https://steamcommunity.com/id/Kenche085/)
 
 _"It’s not just about code, it’s about turning chaos into something that works."_  
 — Heitor Martins  
@@ -106,8 +108,9 @@ _"It’s not just about code, it’s about turning chaos into something that wor
 
 #### 📫 Kontakt
 
-- Instagram: [@theycallmekeniche](https://instagram.com/teuuser)  
-- E-Mail: keniche60@gmail.com  
+- Instagram: [@theycallmekeniche](https://www.instagram.com/theycallmekeniche/)  
+- E-Mail: keniche60@gmail.com
+- Steam: [Keniche](https://steamcommunity.com/id/Kenche085/)
 
 _"Es geht nicht nur um Code, sondern darum, Chaos in etwas Funktionierendes zu verwandeln."_  
 — Heitor Martins  
