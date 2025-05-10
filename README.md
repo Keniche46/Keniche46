@@ -24,7 +24,7 @@
 
 #### 🚀 Alguns projetos legais
 
-- 🎮 Recriando Doom em Java  
+- 🎮 [Recriando Doom em Java](https://github.com/Keniche46/Doom-Java)
 - 🦾 Mão robótica imitando meus movimentos  
 - 🔌 Bancada de eletrônica com proteção contra altas voltagens  
 
@@ -63,7 +63,7 @@ _"Não é só sobre código, é sobre transformar o caos em algo que funcione."_
 
 #### 🚀 Cool projects
 
-- 🎮 Recreating Doom in Java  
+- 🎮 [Recreating Doom in Java](https://github.com/Keniche46/Doom-Java)  
 - 🦾 Robotic hand that mimics my movements  
 - 🔌 Electronics bench with high-voltage protection  
 
@@ -102,7 +102,7 @@ _"It’s not just about code, it’s about turning chaos into something that wor
 
 #### 🚀 Coole Projekte
 
-- 🎮 Doom in Java neu erschaffen  
+- 🎮 [Doom in Java neu erschaffen](https://github.com/Keniche46/Doom-Java)  
 - 🦾 Roboterhand, die meine Bewegungen nachahmt  
 - 🔌 Elektronik-Arbeitsbank mit Hochspannungsschutz  
 
