@@ -10,7 +10,7 @@
 💻 Estudante de Programação, Eletrônica e apaixonado por tecnologia  
 🎓 IFCE - Maranguape | Grupo LEIAH  
 ⚙️ Curto mexer com hardware, circuitos, automação e umas paradas de Química também  
-🛠️ Namorando uma futura engenheira mecatrônica que entende até o meu código-fonte  
+🛠️ [Namorando uma futura engenheira mecatrônica que entende até o meu código-fonte](https://github.com/Yasmimmoura)  
 🎮 Ultimamente tô platinando jogos como quem tenta organizar o caos — cada troféu é um lembrete de que, pelo menos ali, as coisas fazem sentido  
 🧠 Tenho uma cabeça cheia de ideias, cadernos com textos profundos e projetos meio malucos  
 🐈 Sonho em ter um gato balinês pra fazer companhia nos rolês solitários de código  
@@ -50,7 +50,7 @@ _"Não é só sobre código, é sobre transformar o caos em algo que funcione."_
 💻 Student of Programming, Electronics and tech enthusiast  
 🎓 IFCE - Maranguape | LEIAH Group  
 ⚙️ I love working with hardware, circuits, automation and a bit of Chemistry too  
-🛠️ Dating a future mechatronics engineer who even understands my source code  
+🛠️ [Dating a future mechatronics engineer who even understands my source code](https://github.com/Yasmimmoura)  
 🎮 Lately, I’ve been platinum-ing games like I’m trying to organize chaos — each trophy a small reminder that somewhere, things make sense  
 🧠 A head full of ideas, notebooks with deep thoughts and chaotic projects  
 🐈 Dreaming of getting a Balinese cat to keep me company on my lonely coding adventures  
@@ -90,7 +90,7 @@ _"It’s not just about code, it’s about turning chaos into something that wor
 💻 Student für Programmierung, Elektronik und Technikliebhaber  
 🎓 IFCE - Maranguape | LEIAH Gruppe  
 ⚙️ Ich bastle gern an Hardware, Schaltungen, Automatisierung und auch ein bisschen Chemie  
-🛠️ Ich bin mit einer zukünftigen Mechatronikingenieurin zusammen, die sogar meinen Quellcode versteht  
+🛠️ [Ich bin mit einer zukünftigen Mechatronikingenieurin zusammen, die sogar meinen Quellcode versteht](https://github.com/Yasmimmoura)  
 🎮 Zurzeit platinisiere ich Spiele, als ob ich versuche, das Chaos zu ordnen — jede Trophäe ist eine kleine Erinnerung, dass irgendwo alles Sinn ergibt  
 🧠 Ein Kopf voller Ideen, Notizbücher mit tiefen Gedanken und verrückten Projekten  
 🐈 Ich träume davon, eine Balinesenkatze zu haben, die mich bei meinen einsamen Code-Abenteuern begleitet  
